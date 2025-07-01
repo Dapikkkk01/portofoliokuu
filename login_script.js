@@ -33,7 +33,7 @@ document.getElementById('login-form').addEventListener('submit', function(e) {
 
     // Simulate success and redirect to index.html
     alert('Login berhasil! Anda akan dialihkan ke halaman utama.');
-    window.location.href = 'index.html'; // Redirect ke index.html
+    window.location.href = 'home.html'; // Redirect ke index.html
 });
 
 // Handle register form
